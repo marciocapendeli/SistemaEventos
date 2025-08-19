@@ -21,3 +21,24 @@ Projeto de sistema de cadastro e notificação de eventos em Java – console
 1. Baixar os arquivos do repositório;
 2. Compilar os arquivos `.java` usando `javac *.java`;
 3. Executar o programa usando `java NomeDaClassePrincipal`.
+
+## Como rodar o sistema
+
+1. Certifique-se de ter o **Java JDK** instalado na sua máquina.  
+   Para verificar, abra o terminal e digite:
+   ```bash
+   java -version
+Abra o terminal na pasta do projeto.
+
+Compile os arquivos .java:
+
+bash
+Copiar
+Editar
+javac *.java
+Execute o programa:
+
+bash
+Copiar
+Editar
+java Main
